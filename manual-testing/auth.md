@@ -1,3 +1,5 @@
+# Authentication Test Cases
+
 ### TC-01: Account is not created if registration is not completed
 
 **Preconditions**
