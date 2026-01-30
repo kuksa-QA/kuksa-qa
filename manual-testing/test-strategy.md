@@ -2,7 +2,8 @@
 https://automationexercise.com/
 
 ## 1. Project Overview
-Automation Exercise is a demo e-commerce web application that allows users to browse products (including seacrh), register accounts, manage carts, complete purchases, and write feedbacks.
+Automation Exercise is a demo e-commerce web application that allows users to browse products (including seacrh), register accounts, manage carts, complete purchases.
+Features such as an order details or order history page are intentionally excluded because they are not present in the application.
 
 This test strategy defines the approach for validating core functionality, usability, and reliability of the current application from a QA perspective.
 
@@ -88,4 +89,3 @@ This test strategy defines the approach for validating core functionality, usabi
 - Bug reports
 - Automated test suites
 - Test execution reports
-
