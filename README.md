@@ -70,7 +70,7 @@ A collection of real-world QA documentation.
 - Bug report samples with steps and expected results
 - Reusable templates for QA documentation
 
-Repository: `manual-qa-assets`
+Repository: [`manual-qa-assets`](https://github.com/kuksa-QA/manual-qa-assets)
 
 ---
 
